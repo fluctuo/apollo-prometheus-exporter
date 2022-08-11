@@ -12,8 +12,8 @@
   "author": "Bogdan Matei <bogdan@matei.dev>",
   "license": "MIT",
   "main": "index.js",
-  "homepage": "https://github.com/bfmatei/apollo-prometheus-exporter#readme",
-  "repository": "github:bfmatei/apollo-prometheus-exporter",
+  "homepage": "https://github.com/fluctuo/apollo-prometheus-exporter#readme",
+  "repository": "github:fluctuo/apollo-prometheus-exporter",
   "scripts": {
     "postinstall": "husky install",
     "start": "yarn example:start:watch",
